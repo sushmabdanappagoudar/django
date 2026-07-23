@@ -1,5 +1,6 @@
 # 🎉 Django Event Management System
 
+
 A full-stack **Event Management System** built using **Django** that allows users to browse, register, and manage events efficiently. The project provides an easy-to-use interface for both users and administrators.
 
 ---
